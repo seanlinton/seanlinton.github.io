@@ -1,0 +1,79 @@
+/* 第一个气泡里面的 */
+.ball-1 .img1{
+    width: 64rem;
+    top: 90rem;
+    left: 14rem;
+}
+.ball-1 .img2{
+    width: 64rem;
+    left: 95rem;
+    top: 10rem;
+}
+.ball-1 .img3{
+    width: 64rem;
+    top: 90rem;
+    left: 95rem;
+}
+.ball-1 .img4{
+    width: 64rem;
+    top: 90rem;
+    right: 20rem;
+}
+.ball-1 .img5{
+    width: 64rem;
+    left: 95rem;
+    bottom: 20rem;
+}
+/* 第二个气泡里面的 */
+.ball-2 .img1{
+    width: 75rem;
+    left: 60rem;
+    bottom: 110rem;
+}
+.ball-2 .img2{
+    width: 59rem;
+    left: 144rem;
+    bottom: 110rem;
+}
+/* 第三个气泡里面的 */
+.ball-3 .img1{
+    width: 65rem;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+/* 第四个气泡里面的 */
+.ball-4 .img1{
+    height: 40rem;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+/* 第五个气泡里面的 */
+.ball-5 .img1{
+    height: 64rem;
+    left: 95rem;
+    top: 10rem;
+}
+.ball-5 .img2{
+    height: 64rem;
+    left: 95rem;
+    top: 95rem;
+}
+.ball-5 .img3{
+    height: 64rem;
+    left: 30rem;
+    bottom: 45rem;
+}
+.ball-5 .img4{
+    height: 64rem;
+    right: 27rem;
+    bottom: 45rem;
+}
+/* 第六个气泡里面的 */
+.ball-6 .img1{
+    width: 64rem;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
